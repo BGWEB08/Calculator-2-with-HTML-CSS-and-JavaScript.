@@ -51,7 +51,7 @@ input.equal {
     width: 145px;
 }
 
-@media only screen and (max-width: 430px) {
+@media (max-width: 430px) {
     .calculator {
         padding: 8px;
     }
@@ -65,7 +65,7 @@ input.equal {
     }
 }
 
-@media only screen and (max-width: 375px) {
+@media (max-width: 375px) {
     .calculator {
         padding: 8px;
     }
@@ -79,7 +79,7 @@ input.equal {
     }
 }
 
-@media only screen and (max-width: 320px) {
+@media (max-width: 320px) {
     .calculator {
         padding: 6px;
     }
